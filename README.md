@@ -6,7 +6,7 @@ During this workshop we will work through this TryHackMe room: https://tryhackme
 
 How to connect to a TryHackMe room [tutorial](https://tryhackme.com/room/openvpn)
 
-The tool you will need: 
+Tools you will need: 
 - [nmap](https://nmap.org/download)
 - [gobuster](https://pkgs.org/download/gobuster)
 - [CyberChef](https://gchq.github.io/CyberChef)
