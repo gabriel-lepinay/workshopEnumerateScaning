@@ -11,6 +11,6 @@ Tools you will need:
 - [gobuster](https://pkgs.org/download/gobuster)
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [stegseek](https://github.com/RickdeJager/stegseek)
-- [RockYou List](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiI56eo48yDAxVMRqQEHewWCCEQFnoECA4QAQ&url=https%3A%2F%2Fgithub.com%2Fbrannondorsey%2Fnaive-hashcat%2Freleases%2Fdownload%2Fdata%2Frockyou.txt&usg=AOvVaw3snAERl1mU6Ccr4WFEazBd&opi=89978449)
+- [Directory List]([https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiI56eo48yDAxVMRqQEHewWCCEQFnoECA4QAQ&url=https%3A%2F%2Fgithub.com%2Fbrannondorsey%2Fnaive-hashcat%2Freleases%2Fdownload%2Fdata%2Frockyou.txt&usg=AOvVaw3snAERl1mU6Ccr4WFEazBd&opi=89978449](https://github.com/daviddias/node-dirbuster/blob/master/lists/directory-list-2.3-small.txt)https://github.com/daviddias/node-dirbuster/blob/master/lists/directory-list-2.3-small.txt)
 
 To validate this workshop you will need to validate at least 2 questions.
